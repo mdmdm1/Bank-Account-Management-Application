@@ -1,4 +1,6 @@
 Bank Account Management Application
+
+
 This project is a simple banking transaction system developed in Python using Tkinter for the GUI and SQL for database management. It simulates common banking operations such as creating accounts, deposits, withdrawals, and listing all accounts.
 
 Features
